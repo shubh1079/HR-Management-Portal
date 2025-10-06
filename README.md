@@ -1,4 +1,4 @@
-# HR-Management-Portalc🏢💻
+# HR-Management-Portal 🏢💻
 
 
 A **Human Resource Management System (HRMS)** built with the MERN stack to simplify employee and leave management. This project provides an easy way to manage employees, track leave requests, and view HR insights in a secure and responsive web app.
@@ -106,5 +106,6 @@ Developed with ❤️ by **Shubham Goswami**
 
 * 🌐 [LinkedIn](https://linkedin.com/in/shubh1079)
 * 💻 [GitHub](https://github.com/shubh1079)
+
 
 
